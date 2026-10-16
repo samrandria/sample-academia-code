@@ -8,6 +8,7 @@ It contains code for:
 - Dataset loading and processing
 - Data visualisation
 - Statistical analysis
+- Production of publication-ready figures
 
 Please note that this is _self-taught_, Python code written for _academia_ and not _production_: as such, some of the pandas is less than idiomatic and could benefit from a rewrite.
 

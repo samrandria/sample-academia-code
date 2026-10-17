@@ -1,5 +1,4 @@
-# README sample-academia-code
-
+# README
 Some samples of Python code written for data analysis. 
 
 This repository is here to showcase some of the Python code written for the analysis of pancreatic cancer research data. 
